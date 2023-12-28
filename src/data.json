@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Rafel",
+      "email": "rafa@rogmail.com",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "name": "Rr",
+      "email": "r@rgmail.com",
+      "gender": "Male"
+    },
+    {
+      "name": "Joimon",
+      "email": "msjoitson12@gmail.com",
+      "gender": "Male",
+      "id": 11
+    },
+    {
+      "name": "joitson",
+      "email": "msjoitson@gmail.com",
+      "gender": "Male",
+      "id": 12
+    }
+  ]
+}
